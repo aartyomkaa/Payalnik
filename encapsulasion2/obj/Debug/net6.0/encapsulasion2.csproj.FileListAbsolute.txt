@@ -1,0 +1,15 @@
+D:\Repos\Payalnik\encapsulasion2\bin\Debug\net6.0\encapsulasion2.exe
+D:\Repos\Payalnik\encapsulasion2\bin\Debug\net6.0\encapsulasion2.deps.json
+D:\Repos\Payalnik\encapsulasion2\bin\Debug\net6.0\encapsulasion2.runtimeconfig.json
+D:\Repos\Payalnik\encapsulasion2\bin\Debug\net6.0\encapsulasion2.dll
+D:\Repos\Payalnik\encapsulasion2\bin\Debug\net6.0\encapsulasion2.pdb
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.csproj.AssemblyReference.cache
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.AssemblyInfoInputs.cache
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.AssemblyInfo.cs
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.csproj.CoreCompileInputs.cache
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.dll
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\refint\encapsulasion2.dll
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.pdb
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\encapsulasion2.genruntimeconfig.cache
+D:\Repos\Payalnik\encapsulasion2\obj\Debug\net6.0\ref\encapsulasion2.dll
