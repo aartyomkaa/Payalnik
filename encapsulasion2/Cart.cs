@@ -4,15 +4,18 @@ namespace encapsulasion2
 {
     public class Cart
     {
-        private Warehouse _warehouse;
+        private GoodsContainer _container;
         private Shop _shop;
         private Dictionary<Good, int> _order;
 
         public Cart(Warehouse warehouse, Shop shop) 
         {
-            _warehouse = warehouse ?? throw new ArgumentNullException(nameof(warehouse));
             _shop = shop ?? throw new ArgumentNullException(nameof(shop));
 
+            if (warehouse == null)
+                throw new ArgumentNullException(nameof(warehouse));
+
+            _container = warehouse.GetContainer;
             _order = new Dictionary<Good, int>();
         }
 
@@ -24,7 +27,7 @@ namespace encapsulasion2
             if (amount <= 0)
                 throw new ArgumentOutOfRangeException(nameof(amount));
 
-            if (_warehouse.HaveGoods(good, amount))
+            if (_container.HaveGoods(good, amount))
             {
                 if (_order.ContainsKey(good))
                     _order[good] += amount;
@@ -56,7 +59,7 @@ namespace encapsulasion2
 
             foreach (var good in _order)
             {
-                _warehouse.TransferCart(good.Key, good.Value);
+                _container.RemoveOrder(good.Key, good.Value);
             }
 
             return _shop;
