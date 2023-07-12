@@ -1,0 +1,5 @@
+D:\Repos\Payalnik\xxxIncapsulatiosion1\obj\Debug\net6.0\xxxIncapsulatiosion1.csproj.AssemblyReference.cache
+D:\Repos\Payalnik\xxxIncapsulatiosion1\obj\Debug\net6.0\xxxIncapsulatiosion1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Payalnik\xxxIncapsulatiosion1\obj\Debug\net6.0\xxxIncapsulatiosion1.AssemblyInfoInputs.cache
+D:\Repos\Payalnik\xxxIncapsulatiosion1\obj\Debug\net6.0\xxxIncapsulatiosion1.AssemblyInfo.cs
+D:\Repos\Payalnik\xxxIncapsulatiosion1\obj\Debug\net6.0\xxxIncapsulatiosion1.csproj.CoreCompileInputs.cache
