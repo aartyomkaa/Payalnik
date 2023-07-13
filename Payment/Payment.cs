@@ -11,7 +11,7 @@ namespace Payment
         {
             _generator = new SystemGenerator();
 
-            _paymentSystem = _generator.GetSystem(systemId);
+            _paymentSystem = _generator.TryGetSystem(systemId);
         }
 
         public void ShowTransition()

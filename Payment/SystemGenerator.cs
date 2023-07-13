@@ -11,7 +11,7 @@ namespace Payment
             _paymentSystems = Create();
         }
 
-        public IPaymentSystem GetSystem(string systemId)
+        public IPaymentSystem TryGetSystem(string systemId)
         {
             foreach (var system in _paymentSystems)
             {
